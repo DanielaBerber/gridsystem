@@ -1,0 +1,11 @@
+.row1{
+	background-color: black;
+	height: 150px;
+}
+.logo{
+	padding-left: 180px;
+}
+ul{
+	background-color: white;
+	position: inline-block;
+}
